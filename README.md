@@ -18,7 +18,7 @@ The CyberSource Ruby client provides convenient access to the [CyberSource REST 
 * minitest 5.11.3
 * thread_safe 0.3.6
 * tzinfo 1.2.5
-* activesupport 5.2.1
+* activesupport 5.2.0
 * interface 1.0.4
 * json 2.1.0
 * jwt 2.1.0
